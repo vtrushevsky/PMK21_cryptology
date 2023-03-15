@@ -1,0 +1,9 @@
+Engine volume: 3     Name: X5     Brand: BMW  Tank volume: 4
+Engine volume: 7     Name: X3     Brand: BMW  Tank volume: 3
+Engine volume: 6     Name: X1     Brand: BMW  Tank volume: 8
+Engine volume: 5     Name: iX     Brand: Audi  Max distance: 200    Charge time: 2
+Engine volume: 4     Name: iX     Brand: BMW  Max distance: 600    Charge time: 6
+Engine volume: 8     Name: 760     Brand: Kia  Max distance: 100    Charge time: 3
+Engine volume: 4     Name: GLE     Brand: MercedesMax fuel distance: 400     Max electro distance: 600  Tank volume: 5  Max distance: 250    Charge time: 5
+Engine volume: 5     Name: LE     Brand: Mercedes BenzMax fuel distance: 400     Max electro distance: 600  Tank volume: 5  Max distance: 250    Charge time: 5
+Engine volume: 3     Name: GE     Brand: RenaultMax fuel distance: 400     Max electro distance: 600  Tank volume: 5  Max distance: 250    Charge time: 5
