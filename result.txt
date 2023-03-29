@@ -1,0 +1,4 @@
+Triangles sorted by increasing area:
+
+Triangles with perimeter between 10 and 20:
+2 3.1 6 Area: nan
