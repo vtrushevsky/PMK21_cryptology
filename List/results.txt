@@ -1,0 +1,3 @@
+Triangle(8, 10, 14)
+Triangle(5, 12, 13)
+Triangle(3, 4, 5)
