@@ -1,0 +1,8 @@
+Bookstore 1
+Book 4, 50 uah
+Book 2, 100 uah
+Book 3, 150 uah
+
+Bookstore 2
+Book 4, 200 uah
+Book 5, 250 uah

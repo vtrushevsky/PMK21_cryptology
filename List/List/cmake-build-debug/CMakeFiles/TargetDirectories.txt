@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/List25Baliv/cmake-build-debug/CMakeFiles/List25Baliv.dir
+C:/Users/user/CLionProjects/List25Baliv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/List25Baliv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
