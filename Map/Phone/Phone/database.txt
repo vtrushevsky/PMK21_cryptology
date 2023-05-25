@@ -1,0 +1,6 @@
+
+John Black, 123 Main St, New York, 1, 999.99, iPhone X
+Jeniffer Smith, 456 Elm St, Los Angeles, 2, 799.99, Samsung Galaxy S10
+Alice Johnson, 789 Oak St, San Francisco, 3, 1499.99, Google Pixel 4
+
+
