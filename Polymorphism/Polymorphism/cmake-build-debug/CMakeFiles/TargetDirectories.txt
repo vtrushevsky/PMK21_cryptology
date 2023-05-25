@@ -1,3 +1,0 @@
-C:/Users/user/CLionProjects/Mobilochki/cmake-build-debug/CMakeFiles/Mobilochki.dir
-C:/Users/user/CLionProjects/Mobilochki/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/CLionProjects/Mobilochki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
