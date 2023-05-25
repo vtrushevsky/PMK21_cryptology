@@ -1,0 +1,35 @@
+
+Motor: 0
+Name: Model - X
+Marka: Tesla
+Time to charge: 10
+Time to drive:  50
+
+Motor: 0
+Name: Q56
+Marka: Nissan
+Time to charge: 14
+Time to drive:  45
+
+Motor: 5
+Name: Model - Alpha
+Marka: FutureStar
+Have driven on petrol: 12340
+Have driven on electricity: 5555
+Tank volume: 40
+Time to charge: 10
+Time to drive:  50
+
+Motor: 6
+Name: GTR 34
+Marka: Nissan
+Tank volume: 40
+
+Motor: 6
+Name: Model - F
+Marka: Nissan
+Have driven on petrol: 1234
+Have driven on electricity: 556
+Tank volume: 30
+Time to charge: 11
+Time to drive:  40

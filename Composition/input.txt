@@ -1,0 +1,47 @@
+John Smith
+Group A
+2
+Math 90 Johnson
+Physics 85 Davis
+
+Emily Chen
+Group B
+1
+Chemistry 80 Lee
+
+Michael Kim
+Group A
+3
+English 95 Brown
+History 87 Taylor
+Art 91 Jones
+
+Samantha Lee
+Group C
+2
+Biology 88 Martinez
+Computer Science 92 Hernandez
+
+David Hernandez
+Group A
+2
+Math 80 Davis
+Physics 89 Johnson
+
+Maggie Brown
+Group B
+1
+Chemistry 91 Lee
+
+Brandon Taylor
+Group A
+3
+English 92 Jones
+History 89 Kim
+Art 87 Chen
+
+Sophia Martinez
+Group C
+2
+Biology 90 Lee
+Computer Science 91 Hernandez

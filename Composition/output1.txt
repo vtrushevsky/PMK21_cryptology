@@ -1,0 +1,6 @@
+John Smith
+Group A
+2
+Math 90 Johnson
+Physics 85 Davis
+
