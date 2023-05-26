@@ -6,18 +6,16 @@
 
 using namespace std;
 
-// Абстрактний базовий клас "Фігура"
 class Figura {
 public:
     virtual ~Figura() {}
 
-    virtual double obchyslitPloshchu() const = 0; // Чисто віртуальний метод для обчислення площі
-    virtual double obchyslitVysotu() const = 0; // Чисто віртуальний метод для обчислення висоти
+    virtual double obchyslitPloshchu() const = 0; 
+    virtual double obchyslitVysotu() const = 0; 
 
-    virtual void printDetails() const = 0; // Чисто віртуальний метод для виводу деталей фігури
+    virtual void printDetails() const = 0; 
 };
 
-// Похідний клас "Фігура плоска"
 class FiguraPloska : public Figura {
 protected:
     double ploshcha;
@@ -30,11 +28,10 @@ public:
     }
 
     double obchyslitVysotu() const override {
-        return 0.0; // Нульова висота для плоских фігур
+        return 0.0; 
     }
 };
 
-// Похідний клас "Фігура об'ємна"
 class FiguraObiemna : public Figura {
 protected:
     double vysota;
@@ -43,7 +40,7 @@ public:
     FiguraObiemna(double _vysota) : vysota(_vysota) {}
 
     double obchyslitPloshchu() const override {
-        return 0.0; // Нульова площа для об'ємних фігур
+        return 0.0; 
     }
 
     double obchyslitVysotu() const override {
@@ -51,7 +48,6 @@ public:
     }
 };
 
-// Похідний клас "Багатокутник"
 class Bagatokutnyk : public FiguraPloska {
 private:
     int kilkistStoron;
@@ -67,7 +63,6 @@ public:
     }
 };
 
-// Похідний клас "Коло"
 class Kolo : public FiguraPloska {
 private:
     double radius;
@@ -83,7 +78,6 @@ public:
     }
 };
 
-// Похідний клас "Паралелепіпед"
 class Paralelepiped : public FiguraObiemna {
 private:
     double dovzhyna;
@@ -101,7 +95,6 @@ public:
     }
 };
 
-// Похідний клас "Конус"
 class Konus : public FiguraObiemna {
 private:
     double radius;
@@ -123,7 +116,6 @@ int main() {
 
     vector<Figura*> figury;
 
-    // Введення даних про 10 різних геометричних фігур
     for (int i = 0; i < 10; i++) {
         double ploshcha, vysota;
         cout << "Фігура #" << (i + 1) << endl;
@@ -143,7 +135,6 @@ int main() {
         figury.push_back(new Konus(vysota, i + 1.5));
     }
 
-    // Виведення плоских фігур в порядку спадання площі
     sort(figury.begin(), figury.end(), [](Figura* f1, Figura* f2) {
         return f1->obchyslitPloshchu() > f2->obchyslitPloshchu();
         });
@@ -155,7 +146,6 @@ int main() {
         }
     }
 
-    // Виведення об'ємних фігур в порядку зростання висоти
     sort(figury.begin(), figury.end(), [](Figura* f1, Figura* f2) {
         return f1->obchyslitVysotu() < f2->obchyslitVysotu();
         });
@@ -167,7 +157,6 @@ int main() {
         }
     }
 
-    // Пошук фігури зі співпадаючими геометричними розмірами
     double rozmir;
     cout << "Введіть геометричний розмір: ";
     cin >> rozmir;
@@ -185,7 +174,6 @@ int main() {
         }
     }
 
-    // Видалення виділеної пам'яті
     for (const auto& figura : figury) {
         delete figura;
     }
