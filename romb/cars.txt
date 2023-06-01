@@ -1,0 +1,1 @@
+Volume of engine: 120 Name: Porsche Taikan Brand: Porsche  Volume of tank: 60Volume of engine: 80 Name: Tesla x5 Brand: Tesla  Max time of mileage: 120 Charge hours: 24Volume of engine: 75 Name: BMW XM Brand: BMW  Petrol car mileage: 200 Electrocar mileage: 120  Volume of tank: 80  Max time of mileage: 100.3 Charge hours: 24
