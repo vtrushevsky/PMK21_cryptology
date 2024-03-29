@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MyCiphers\MyCiphers\bin\Debug\net8.0\MyCiphers.exe
+C:\Users\user\source\repos\MyCiphers\MyCiphers\bin\Debug\net8.0\MyCiphers.deps.json
+C:\Users\user\source\repos\MyCiphers\MyCiphers\bin\Debug\net8.0\MyCiphers.runtimeconfig.json
+C:\Users\user\source\repos\MyCiphers\MyCiphers\bin\Debug\net8.0\MyCiphers.dll
+C:\Users\user\source\repos\MyCiphers\MyCiphers\bin\Debug\net8.0\MyCiphers.pdb
+C:\Users\user\source\repos\MyCiphers\MyCiphers\obj\Debug\net8.0\MyCiphers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyCiphers\MyCiphers\obj\Debug\net8.0\MyCiphers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyCiphers\MyCiphers\obj\Debug\net8.0\MyCiphers.AssemblyInfo.cs
+C:\Users\user\source\repos\MyCiphers\MyCiphers\obj\Debug\net8.0\MyCiphers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyCiphers\MyCiphers\obj\Debug\net8.0\MyCiphers.dll
+C:\Users\user\source\repos\MyCiphers\MyCiphers\obj\Debug\net8.0\refint\MyCiphers.dll
+C:\Users\user\source\repos\MyCiphers\MyCiphers\obj\Debug\net8.0\MyCiphers.pdb
+C:\Users\user\source\repos\MyCiphers\MyCiphers\obj\Debug\net8.0\MyCiphers.genruntimeconfig.cache
+C:\Users\user\source\repos\MyCiphers\MyCiphers\obj\Debug\net8.0\ref\MyCiphers.dll
